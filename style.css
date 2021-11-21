@@ -7,7 +7,7 @@
     left:50%;
     margin-left: auto;
     margin-right: auto;
-    background-color: forestgreen;
+    background-color: #BFBFBF;
 }
 .popWindow h2{
     color:black;
@@ -34,7 +34,7 @@
     padding: 5px 20px;
     margin-bottom: 20px;
     outline: none;
-    background: greenyellow;
+    background: #A6A6A4;
     color: black;
     border-radius: 4px;
 }
@@ -85,7 +85,7 @@
     width: 500px;
     height: 500px;
     margin: 150px auto;
-    background-color: limegreen;
+    background-color: #A6A6A4;
 }
 .thank-you-window .thank-you-message{
     color: #fff;
